@@ -1,0 +1,2 @@
+Esto es un pequeño script que numera del 1 a 100
+
